@@ -1,6 +1,7 @@
-### Hi there 👋
+### Olá! 👋
 
-- Estudando HTML, CSS, JavaScript
+- Estudando Front-end
+- Atualmente aprendendo React
 
 
 <div align="center">
